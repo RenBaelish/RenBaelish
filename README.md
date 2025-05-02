@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm RennBaelish 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/RenBaelish/RenBaelish/blob/main/assets/fav.gif" alt="My cool GIF" />
+  <img src="img/fav2.gif" width="" alt="My cool GIF" />
 </p>
 
 <p align="center">
