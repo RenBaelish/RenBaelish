@@ -40,8 +40,8 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenBaelish&show_icons=true&theme=midnight-purple&hide_title=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenBaelish&layout=compact&theme=midnight-purple&hide_title=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenBaelish&show_icons=true&theme=midnight-purple&hide_title=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenBaelish&layout=compact&theme=midnight-purple&hide_title=true" width="48%" />
 </div>
 
 ---
