@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <strong>RennBaelish</strong> 👋</h1>
 
 <p align="center">
-  <img src="img/fav2.gif" alt="Cool GIF" width="250"/>
+  <img src="img/fav2.gif" alt="Cool GIF" width=""/>
 </p>
 
 <p align="center">
@@ -40,6 +40,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RenBaelish&theme=radical&no-frame=true&margin-w=10&column=4" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -72,5 +80,6 @@
 
 <p align="center">
   <em><strong>“Low profile, high performance.”</strong><br>
-  That’s the way.</em>
+  That’s the way.</em><br><br>
+  <em>"Sometimes, the quietest voice has the loudest impact."</em>
 </p>
