@@ -13,10 +13,10 @@
 
 ### 📌 About Me
 
-- 💻 I build in silence — let the code speak.
-- 🚀 Currently crafting **BitBelajar**, a smarter way to learn.
-- 🧩 Fluent in: Data, logic, and code.
-- 🧠 I observe more than I talk — learning is faster that way.
+- 💻 I build quietly — let the results do the talking.  
+- 🚀 Currently developing **BitBelajar**, a smarter way to learn.  
+-🧩 Comfortable with data, logic, and code.  
+- 🧠 I listen more than I speak — it's the fastest way to grow.
 
 ---
 
