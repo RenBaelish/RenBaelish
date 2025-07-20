@@ -1,6 +1,26 @@
 <h1 align="center">👋 Hi, I'm <strong>RennBaelish</strong></h1>
 
 <p align="center">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/677307030294064177/draw"
+      width="600"
+      height="300"
+      alt="gitanimals"
+    />
+  </a>
+  <br/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=RenBaelish&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/RenBaelish"
+      width="600"
+      height="120"
+      alt="RenBaelish Line"
+    />
+  </a>
+</p>
+
+<p align="center">
   <em>“Low profile, high performance.”</em><br>
   <strong>“I don’t seek attention. I seek results.”</strong>
 </p>
@@ -18,29 +38,6 @@
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.gitanimals.org/">
-    <img
-      src="https://render.gitanimals.org/guilds/677307030294064177/draw"
-      width="600"
-      height="300"
-      alt="gitanimals"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=RenBaelish&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/RenBaelish"
-      width="600"
-      height="120"
-    />
-  </a>
 </p>
 
 ---
