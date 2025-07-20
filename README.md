@@ -24,7 +24,7 @@
   <tr>
     <td><img src="https://img.shields.io/badge/Repositories-Super_Repo_Creator_83pt-blue?style=for-the-badge&logo=github" /></td>
     <td><img src="https://img.shields.io/badge/Experience-Experienced_Dev_24pt-orange?style=for-the-badge&logo=github" /></td>
-    <td><img src="https://img.shields.io/badge/Reviews-Unknown_0pt-lightgrey?style=for-the-badge&logo=github" /></td>
+    <td><img src="https://img.shields.io/badge/Reviews-Insightful_Reviewer_0pt-lightgrey?style=for-the-badge&logo=github" /></td>
   </tr>
 </table>
 
