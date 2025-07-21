@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>RennBaelish</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>RenBaelish</strong></h1>
 
 <p align="center">
   <img
