@@ -13,27 +13,6 @@
 
 <div align="center">
 
-🎖️ <strong>Achievements</strong>
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Followers-Super_Celebrity_4.2kpt-ff69b4?style=for-the-badge&logo=github" /></td>
-    <td><img src="https://img.shields.io/badge/Stars-High_Stargazer_1.2kpt-yellow?style=for-the-badge&logo=github" /></td>
-    <td><img src="https://img.shields.io/badge/PullRequest-Super_Puller_390pt-brightgreen?style=for-the-badge&logo=github" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Repositories-Super_Repo_Creator_83pt-blue?style=for-the-badge&logo=github" /></td>
-    <td><img src="https://img.shields.io/badge/Experience-Experienced_Dev_24pt-orange?style=for-the-badge&logo=github" /></td>
-    <td><img src="https://img.shields.io/badge/Reviews-Insightful_Reviewer_0pt-lightgrey?style=for-the-badge&logo=github" /></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 🧠 <strong>Engineer 🚀 | Content Creator 🎥 | Tech Enthusiast 💡</strong>
 
 </div>
