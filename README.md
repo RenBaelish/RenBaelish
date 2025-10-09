@@ -13,7 +13,7 @@
 
 <div align="center">
 
-🧠 <strong>Engineer 🚀 | Content Creator 🎥 | Tech Enthusiast 💡</strong>
+🧠 <strong>Engineer 🚀 | Backend Architect 🧱 | Tech Enthusiast 💡</strong>
 
 </div>
 
