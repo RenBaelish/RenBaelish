@@ -36,7 +36,6 @@
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenBaelish&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenBaelish&layout=compact&langs_count=8&theme=tokyonight" height="180px"/>
   
 </div>
 
